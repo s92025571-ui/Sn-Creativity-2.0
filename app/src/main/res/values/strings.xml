@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SN Creativity AI</string>
+    <string name="welcome_title">Welcome to SN Creativity</string>
+    <string name="app_version_subtitle">SN Creativity AI 2.0 • Creator Studio</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Studios</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_back">Back</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_copied">Copied to clipboard</string>
+    <string name="action_regenerate">Regenerate</string>
+    <string name="action_generate">Generate</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_clear_history">Clear All</string>
+    <string name="action_reuse">Reuse</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Studios -->
+    <string name="studio_gaming_title">Gaming Studio</string>
+    <string name="studio_gaming_desc">Viral titles, hashtags, video ideas, captions &amp; pro game tips.</string>
+    <string name="studio_prompt_title">AI Prompt Studio</string>
+    <string name="studio_prompt_desc">Image, video &amp; thumbnail prompts, Prompt Enhancer, Flow/Sora presets &amp; research.</string>
+    <string name="studio_voice_title">Voice &amp; Script Studio</string>
+    <string name="studio_voice_desc">Voice-overs, Reels/Shorts scripts, killer hooks &amp; calls to action.</string>
+    <string name="studio_toolkit_title">Creator Toolkit</string>
+    <string name="studio_toolkit_desc">Social captions, hashtag packs, content calendars &amp; creative writing.</string>
+
+    <!-- Status & Security -->
+    <string name="status_proxy_connected">Secure Backend Proxy Connected</string>
+    <string name="status_direct_gemini">Gemini Direct API Configured</string>
+    <string name="status_setup_required">Gemini Setup Required (Local Fallback Ready)</string>
+    <string name="security_prototype_notice">Security Notice: Direct API keys in client APKs can be extracted if decompiled. Use GEMINI_BACKEND_PROXY_URL for public production releases.</string>
+
+    <!-- Themes -->
+    <string name="theme_neon_dark">Neon Dark</string>
+    <string name="theme_creative_light">Creative Light</string>
+
+    <!-- Languages -->
+    <string name="lang_english">English</string>
+    <string name="lang_roman_urdu">Roman Urdu</string>
+
+    <!-- Support -->
+    <string name="contact_whatsapp_title">Contact Help on WhatsApp</string>
+    <string name="contact_whatsapp_unconfigured">Owner WhatsApp support number is not configured yet in OwnerSupportConfig.kt.</string>
+    <string name="contact_whatsapp_not_installed">WhatsApp is not installed. Opening browser link or copying support details.</string>
+</resources>
